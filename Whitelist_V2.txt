@@ -1,0 +1,25 @@
+# Whitelist remota - Sistema de Seguridad VRChat
+# Formato recomendado:
+# [roleId Nombre visual]
+# DisplayName
+#
+# Reglas:
+# - Lineas vacias se ignoran.
+# - Lineas que empiezan con # son comentarios.
+# - El numero dentro de [3 Staff] es el roleId real.
+# - El texto Staff/Maid/Member solo es para que lo leas facil.
+# - Nombre§roleId permite una entrada suelta con roleId explicito.
+# - \#Nombre permite usuarios que empiezan con #.
+# - \[Nombre] permite usuarios que empiezan con [.
+
+[3 Staff]
+~Kuru
+
+[2 Maid]
+
+
+[1 Member]
+
+
+[0 Sin rol]
+
